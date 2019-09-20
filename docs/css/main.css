@@ -1,0 +1,39 @@
+header {
+  text-align: center;
+}
+
+header p {
+  margin: 0em;
+}
+
+h1 {
+  margin: 0em;
+}
+
+header a {
+  color: black;
+}
+
+header a:hover{
+  color: gray;
+}
+
+.predate {
+  float: left;
+}
+
+.date {
+  float: right;
+}
+
+.postdate {
+  float:both;
+}
+
+.section {
+  margin: 0em;
+}
+
+h2 {
+  margin: 0em;
+}
